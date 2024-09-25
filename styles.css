@@ -1,10 +1,52 @@
-h1{
-	color: #5C6AC4;
+#title {color: white;
+background-color:lightblue;
+margin: -4px;
+border: solid;
+}
+body {
+  background-color:lightblue;
 }
 
-p {
-  padding: 10px;
-	color: white;
-	background-color: #5C6AC4;
-	width: fit-content;
+
+
+#section-1 {
+  border-style: grey;
+  border: 3px solid lightblue;
+  border-radius: 20px;
+  background-color:white;
+  padding: 30px
+  margin-top: 20px;
+  margin-bottom: 10px;
+  margin-right: 5px;
+  margin-left: 5px;
+  border:groove;
 }
+  
+  #section-2 {
+    border-style: groove;
+  border: 3px solid lightblue;
+  border-radius: 20px;
+  background-color:white;
+  padding: 30px
+margin-top: 100px;
+  margin-bottom: 10px;
+  margin-right: 5px;
+  margin-left: 5px;
+  }
+  
+  #section-3 {
+    border-style: groove;
+  border: 3px solid lightblue;
+  border-radius: 20px;
+  background-color:white;
+  padding: 30px
+margin-top: 100px;
+  margin-bottom: 15px;
+  margin-right: 5px;
+  margin-left: 5px;
+  }
+  #title {color: white;
+  background-color: black;
+  }
+  
+  h2 {color: green;}

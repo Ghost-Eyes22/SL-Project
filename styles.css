@@ -1,5 +1,5 @@
 #title {color: white;
-background-color:lightblue;
+background-color:"lightblue";
 margin: -4px;
 border: solid;
 }
@@ -45,8 +45,32 @@ margin-top: 100px;
   margin-right: 5px;
   margin-left: 5px;
   }
+  
+  #section-4 {
+    border-style: groove;
+  border: 3px solid lightblue;
+  border-radius: 20px;
+  background-color:white;
+  padding: 30px
+margin-top: 100px;
+  margin-bottom: 15px;
+  margin-right: 5px;
+  margin-left: 5px;
+  }
+  
   #title {color: white;
   background-color: black;
   }
+  div#section-1:hover {background-color:grey;h2{text-decoration: underline;}}
+  div#section-2:hover {background-color:grey;h2{text-decoration: underline;}}
+  div#section-3:hover {background-color:grey;h2{text-decoration: underline;}}
+  div#section-4:hover {background-color:grey;h2{text-decoration: underline;}}
+  
+
+footer{color:#FFFFFFF;
+text-align:center;
+background-color:#0e3369;
+font-family: Arial
+;
   
   h2 {color: green;}

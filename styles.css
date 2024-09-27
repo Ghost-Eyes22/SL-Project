@@ -4,7 +4,7 @@ margin: -4px;
 border: solid;
 }
 body {
-  background-color:lightblue;
+  background-color:purple;
 }
 
 
@@ -58,14 +58,110 @@ margin-top: 100px;
   margin-left: 5px;
   }
   
+   #section-5 {
+    border-style: groove;
+  border: 3px solid lightblue;
+  border-radius: 20px;
+  background-color:white;
+  padding: 30px
+margin-top: 100px;
+  margin-bottom: 15px;
+  margin-right: 5px;
+  margin-left: 5px;
+  }
+  
+   #section-6 {
+    border-style: groove;
+  border: 3px solid lightblue;
+  border-radius: 20px;
+  background-color:white;
+  padding: 30px
+margin-top: 100px;
+  margin-bottom: 15px;
+  margin-right: 5px;
+  margin-left: 5px;
+  }
+  
+   #section-7 {
+    border-style: groove;
+  border: 3px solid lightblue;
+  border-radius: 20px;
+  background-color:white;
+  padding: 30px
+margin-top: 100px;
+  margin-bottom: 15px;
+  margin-right: 5px;
+  margin-left: 5px;
+  }
+  
+  #section-8 {
+    border-style: groove;
+  border: 3px solid lightblue;
+  border-radius: 20px;
+  background-color:white;
+  padding: 30px
+margin-top: 100px;
+  margin-bottom: 15px;
+  margin-right: 5px;
+  margin-left: 5px;
+  }
+  
+  #section-9 {
+    border-style: groove;
+  border: 3px solid lightblue;
+  border-radius: 20px;
+  background-color:white;
+  padding: 30px
+margin-top: 100px;
+  margin-bottom: 15px;
+  margin-right: 5px;
+  margin-left: 5px;
+  }
+  
+  #section-10 {
+    border-style: groove;
+  border: 3px solid lightblue;
+  border-radius: 20px;
+  background-color:white;
+  padding: 30px
+margin-top: 100px;
+  margin-bottom: 15px;
+  margin-right: 5px;
+  margin-left: 5px;
+  }
+  
+   #section-11 {
+    border-style: groove;
+  border: 3px solid lightblue;
+  border-radius: 20px;
+  background-color:white;
+  padding: 30px
+margin-top: 100px;
+  margin-bottom: 15px;
+  margin-right: 5px;
+  margin-left: 5px;
+  }
+  
+  
+  
+  
   #title {color: white;
   background-color: black;
   }
-  div#section-1:hover {background-color:grey;h2{text-decoration: underline;}}
-  div#section-2:hover {background-color:grey;h2{text-decoration: underline;}}
-  div#section-3:hover {background-color:grey;h2{text-decoration: underline;}}
-  div#section-4:hover {background-color:grey;h2{text-decoration: underline;}}
-  
+  div#section-1:hover {background-color:lightblue;h2{text-decoration: underline;}}
+  div#section-2:hover {background-color:red;h2{text-decoration: underline;}}
+  div#section-3:hover {background-color:lightblue;h2{text-decoration: underline;}}
+  div#section-4:hover {background-color:red;h2{text-decoration: underline;}}
+  div#section-5:hover {background-color:lightblue;h2{text-decoration: underline;}}
+  div#section-6:hover {background-color:red;h2{text-decoration: underline;}}
+  div#section-7:hover {background-color:lightblue;h2{text-decoration: underline;}}
+  div#section-8:hover {background-color:red;h2{text-decoration: underline;}}
+  div#section-9:hover {background-color:lightblue;h2{text-decoration: underline;}}
+  div#section-10:hover {background-color:red;h2{text-decoration: underline;}}
+  div#section-11:hover {background-color:lightblue;h2{text-decoration: underline;}}
+
+
+
 
 footer{color:#FFFFFFF;
 text-align:center;
